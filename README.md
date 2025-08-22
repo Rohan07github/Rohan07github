@@ -9,7 +9,7 @@ My journey has been shaped by a dedication to problem-solving and clean architec
 
 ## 🚀 Currently Exploring
 - 🔧 Advanced **Spring Security (OAuth2 + JWT)**
-- 🖥️ Building a **Full Stack Online Consultation Booking System**
+- 🖥️ Built a **Full Stack Hotel Management System**
 - 🌐 Cloud-native deployment with **Docker & AWS**
 - 📊 Improving problem-solving through **DSA & system design**
 
