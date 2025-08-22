@@ -1,5 +1,3 @@
-# rohan-dev
-
 # 👋 Hi, I'm Rohan  
 💻 Full Stack Developer | Problem Solver | Tech Enthusiast  
 
