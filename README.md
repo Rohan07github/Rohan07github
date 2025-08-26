@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rohan  
-💻 Full Stack Developer | Problem Solver | Tech Enthusiast  
+💻 Full Stack Developer | Java Developer| Problem Solver | Tech Enthusiast  
 
 I am an Engineering graduate and a passionate developer aiming to build impactful and scalable web applications using modern technologies. With strong expertise in **Java (Spring Boot)** for backend and **React.js** for frontend, I specialize in creating **robust RESTful APIs, secure systems, and interactive user interfaces**.  
 
